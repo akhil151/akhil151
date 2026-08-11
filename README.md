@@ -14,13 +14,17 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&label=&labelColor=0D1117)](EDIT_ME_LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&label=&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-m-p)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&label=&labelColor=0D1117)](mailto:Palanisamyakhil@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&label=&labelColor=0D1117)](https://github.com/akhil151)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akhil151&color=00F0FF&style=flat-square&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/akhil151?style=flat-square&color=00F0FF&labelColor=0D1117&label=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/akhil151?style=flat-square&color=00F0FF&labelColor=0D1117&label=STARS)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
 
 </div>
 
@@ -46,25 +50,25 @@ OPEN_TO  : AI/ML Engineer Intern / Full Stack Developer Intern roles
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" />
+<a href="https://github.com/akhil151?tab=repositories&language=python"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" /></a>
 
 <br/><br/>
 
 **AI / ML & Computer Vision**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<a href="https://github.com/akhil151?tab=repositories&q=vision+ml"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" /></a>
 
 <br/><br/>
 
 **Frameworks & Web**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,reactnative&theme=dark" />
+<a href="https://github.com/akhil151?tab=repositories&q=web"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,reactnative&theme=dark" /></a>
 
 <br/><br/>
 
 **Databases, Cloud & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,raspberrypi&theme=dark" />
+<a href="https://github.com/akhil151?tab=repositories"><img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,raspberrypi&theme=dark" /></a>
 
 </div>
 
@@ -230,7 +234,9 @@ Built a Gemini-powered RAG platform delivering a 0–100 funding readiness score
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=akhil151&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%"/>
+<a href="https://github.com/akhil151">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhil151&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%"/>
+</a>
 
 </div>
 
@@ -246,20 +252,6 @@ Built a Gemini-powered RAG platform delivering a 0–100 funding readiness score
 
 <br/>
 
-### `$ github --summary-cards`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=akhil151&theme=github_dark" width="100%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=akhil151&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=akhil151&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=akhil151&theme=github_dark" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=akhil151&theme=github_dark&utcOffset=5.5" width="48%"/>
-
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/akhil151/akhil151/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
@@ -270,7 +262,7 @@ Built a Gemini-powered RAG platform delivering a 0–100 funding readiness score
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117)](EDIT_ME_LINKEDIN_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-m-p)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117)](mailto:Palanisamyakhil@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/akhil151)
 
