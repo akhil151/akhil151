@@ -68,7 +68,7 @@ OPEN_TO  : AI/ML Engineer Intern / Full Stack Developer Intern roles
 
 **Databases, Cloud & Tools**
 <br/>
-<a href="https://github.com/akhil151?tab=repositories"><img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,raspberrypi&theme=dark" /></a>
+<a href="https://github.com/akhil151?tab=repositories"><img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,raspberrypi,linux&theme=dark" /></a>
 
 </div>
 
