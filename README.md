@@ -1,46 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:00F0FF&height=200&section=header&text=AKHILESH%20M%20P&fontSize=55&fontColor=00F0FF&fontAlignY=40&desc=ML%20Engineer%20%7C%7C%20AI%20Engineer%20%7C%7C%20Full-Stack%20Developer&descAlignY=60&descColor=C9D1D9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a192f,100:00D4FF&height=180&section=header&text=AKHILESH%20M%20P&fontSize=48&fontColor=00D4FF&fontAlignY=35&desc=AI/ML%20Engineer%20·%20Systems%20Builder%20·%20Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=8B949E&animation=fadeIn" width="100%"/>
+
+<br/>
 
 <a href="https://github.com/akhil151">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duetone=00F0FF&center=true&vCenter=true&width=700&height=110&background=00000000&lines=root%40akhilesh%3A~%24+whoami;>+B.E.+CSE(AIML)+Student+%40+Sri+Eshwar+College;>+Building+AI+Agents%2C+Computer+Vision+%26+RAG+Systems;>+Stack%3A+Python+%7C+TensorFlow+%7C+FastAPI+%7C+React;>+Open+to+AI%2FML+Engineer+Internships_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=620&height=45&lines=Building+AI+agents,+vision+systems,+and+full-stack+applications." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Degree](https://img.shields.io/badge/Degree-B.E._CSE(AIML)-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-![University](https://img.shields.io/badge/University-Sri_Eshwar_College_of_Engineering-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-![Status](https://img.shields.io/badge/Status-4th_Semester-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&label=&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-m-p)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&label=&labelColor=0D1117)](mailto:Palanisamyakhil@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&label=&labelColor=0D1117)](https://github.com/akhil151)
-
-![Profile Views](https://komarev.com/ghpvc/?username=akhil151&color=00F0FF&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/akhil151?style=flat-square&color=00F0FF&labelColor=0D1117&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/akhil151?style=flat-square&color=00F0FF&labelColor=0D1117&label=STARS)
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="60%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D4FF&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-m-p)
+[![Email](https://img.shields.io/badge/Palanisamyakhil@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00D4FF&labelColor=0D1117)](mailto:Palanisamyakhil@gmail.com)
+[![GitHub](https://img.shields.io/badge/akhil151-0D1117?style=flat-square&logo=github&logoColor=00D4FF&labelColor=0D1117)](https://github.com/akhil151)
 
 </div>
 
 <br/>
 
-### `$ cat about_me.md`
+### `$ cat about.md`
 
-Aspiring AI/ML Engineer and Full-Stack Developer pursuing a B.E. in CSE (AI & ML) at Sri Eshwar College of Engineering (2024–2028). I build across machine learning, computer vision, LLM-based agentic AI, RAG pipelines, and MERN full-stack applications — from edge-deployed wildlife detection systems to enterprise cyber-physical security platforms. Always experimenting, always deploying.
+B.E. Computer Science (AI & ML), Sri Eshwar College of Engineering — class of 2028.
 
-```bash
-ROLE     : AI/ML Engineer / Full-Stack Developer (Aspiring)
-EXP      : Student — B.E. CSE(AIML), 2024–2028
-DOMAIN   : Machine Learning, Computer Vision, Agentic AI, RAG, Full-Stack Web Dev
-STACK    : Python, TensorFlow/PyTorch, FastAPI, ReactJS, Node.js, MongoDB, PostgreSQL
-OPEN_TO  : AI/ML Engineer Intern / Full Stack Developer Intern roles
-```
+I build AI systems that do real work: computer vision models running on edge hardware, LLM-powered agentic workflows, RAG pipelines grounded in real data, and full-stack applications that tie it all together. Most of my projects go from idea to working prototype — detection models on Raspberry Pi, autonomous social-media agents, AI-powered funding advisors.
+
+Currently focused on **agentic AI**, **real-time computer vision**, and **AI-integrated full-stack systems**.
+
+<br/>
+
+### `$ ls ./projects --featured`
+
+> The work I think represents genuine engineering effort.
+
+<table>
+<tr><td>
+
+#### 🐘 Elephant Detection — Real-Time Wildlife Alert System
+
+Trained a YOLOv8 model on a custom Roboflow dataset to detect elephants from a Raspberry Pi camera feed. Broadcasts live WebSocket alerts to a mobile app to help reduce human-wildlife conflict. Runs on-device — no cloud round-trip for time-critical alerts.
+
+**Stack:** `Python` · `YOLOv8` · `OpenCV` · `Raspberry Pi` · `WebSocket` · `Expo/React Native`
+
+</td></tr>
+<tr><td>
+
+#### 🛡️ AEGIS-CPS — AI-Powered Cyber-Physical Security Platform
+
+Designed and built a security platform for connected robots and industrial systems. Features a six-layer detection engine, explainable evidence fusion, AI-assisted incident investigation, digital twin monitoring, and live network telemetry. Includes an autonomous SOC workflow with AI investigation agents and human-in-the-loop response approval.
+
+**Stack:** `Python` · `FastAPI` · `Streamlit` · `AI Agents` · `Digital Twin` · `Network Telemetry`
+
+</td></tr>
+<tr><td>
+
+#### 🤖 Agentic AI Social Media Automation
+
+Built an autonomous multi-agent system that generates captions (Groq LLaMA 3.3 70B), generates images (Stable Diffusion 1.5 running locally), and auto-publishes across Facebook, Instagram, and LinkedIn via Playwright. Engineered a 3-strategy fallback upload flow with persistent session handling.
+
+**Stack:** `Python` · `Groq LLM` · `Stable Diffusion` · `Playwright` · `Multi-Agent Automation`
+
+</td></tr>
+<tr><td>
+
+#### 💰 Nivesh.ai — Multilingual AI Funding Advisor
+
+A Gemini-powered RAG platform that delivers a 0–100 funding readiness score and a personalised 5-step action checklist for early-stage Indian founders, in their preferred language. ChromaDB vector-retrieval pipeline paired with PostgreSQL to ground recommendations in real startup data.
+
+**Stack:** `React` · `FastAPI` · `Gemini API` · `ChromaDB` · `PostgreSQL`
+
+</td></tr>
+</table>
 
 <br/>
 
@@ -48,161 +77,56 @@ OPEN_TO  : AI/ML Engineer Intern / Full Stack Developer Intern roles
 
 <div align="center">
 
-**Languages**
-<br/>
-<a href="https://github.com/akhil151?tab=repositories&language=python"><img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css&theme=dark" /></a>
-
-<br/><br/>
-
-**AI / ML & Computer Vision**
-<br/>
-<a href="https://github.com/akhil151?tab=repositories&q=vision+ml"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" /></a>
-
-<br/><br/>
-
-**Frameworks & Web**
-<br/>
-<a href="https://github.com/akhil151?tab=repositories&q=web"><img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,reactnative&theme=dark" /></a>
-
-<br/><br/>
-
-**Databases, Cloud & Tools**
-<br/>
-<a href="https://github.com/akhil151?tab=repositories"><img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,vscode,raspberrypi,linux&theme=dark" /></a>
-
-</div>
-
-<br/>
-
-### `$ specialties --list`
-
-<div align="center">
-
-![AI/ML](https://img.shields.io/badge/AI%2FML-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00F0FF&labelColor=0D1117)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=00F0FF&labelColor=0D1117)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=00F0FF&labelColor=0D1117)
-![RAG Systems](https://img.shields.io/badge/RAG%20Systems-0D1117?style=for-the-badge&logo=googlegemini&logoColor=00F0FF&labelColor=0D1117)
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0D1117)
-
-</div>
-
-<br/>
-
-### `$ expertise --table`
-
-<div align="center">
-
-| Domain | Details |
+| | Technologies |
 |:---|:---|
-| AI / Machine Learning | Deep Learning, NLP, LLM Agents, RAG, Prompt Engineering (TensorFlow/PyTorch, Scikit-Learn, Keras) |
-| Computer Vision | OpenCV, YOLOv8, Object Detection, Image Processing |
-| Generative AI | Gemini API, Groq LLaMA 3.3 70B, Stable Diffusion, ChromaDB |
-| Full Stack Web Dev | ReactJS, React Native, Node.js, Express.js, MERN Stack |
-| Backend & APIs | FastAPI, PostgreSQL, REST APIs, WebSocket, Socket.IO |
-| Core CS Fundamentals | DSA, OOP, DBMS |
-| Data & Visualization | Tableau, Power BI |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00D4FF) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00D4FF) ![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00D4FF) ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00D4FF) ![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=00D4FF) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=00D4FF) ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=00D4FF) ![scikit-learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=00D4FF) ![Keras](https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=00D4FF) |
+| **Computer Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=flat-square&logo=opencv&logoColor=00D4FF) ![YOLOv8](https://img.shields.io/badge/YOLOv8-0D1117?style=flat-square&logoColor=00D4FF) |
+| **LLM / Gen AI** | ![Gemini](https://img.shields.io/badge/Gemini_API-0D1117?style=flat-square&logo=googlegemini&logoColor=00D4FF) ![Groq](https://img.shields.io/badge/Groq_LLaMA-0D1117?style=flat-square&logoColor=00D4FF) ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-0D1117?style=flat-square&logoColor=00D4FF) ![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logoColor=00D4FF) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00D4FF) ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00D4FF) ![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=00D4FF) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00D4FF) ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=flat-square&logo=react&logoColor=00D4FF) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00D4FF) ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=00D4FF) |
+| **Tools / Edge** | ![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00D4FF) ![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00D4FF) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0D1117?style=flat-square&logo=raspberrypi&logoColor=00D4FF) ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=00D4FF) |
 
 </div>
-
-<br/>
-
-### `$ ls ./featured-projects`
-
-<details open>
-<summary><b>🐘 Elephant Detection — Real-Time Wildlife Alert System</b></summary>
-<br/>
-
-Trained a YOLOv8 computer vision model on a custom Roboflow dataset to detect elephants from a Raspberry Pi camera feed, broadcasting live WebSocket alerts to a mobile app to reduce human-wildlife conflict. Deployed on edge hardware for on-device inference, avoiding cloud round-trip latency for time-critical alerts.
-
-| Stack | Scale | Impact |
-|:---|:---|:---|
-| Python · YOLOv8 · OpenCV · Raspberry Pi · WebSocket · Expo/React Native | Real-time edge inference on live camera feed | Reduced human-wildlife conflict via instant mobile alerts |
-
-</details>
-
-<details>
-<summary><b>🛡️ AEGIS-CPS — Enterprise AI-Powered Cyber-Physical Security Platform</b></summary>
-<br/>
-
-Designed and built an enterprise cyber-physical security platform protecting connected robots and industrial systems using a six-layer detection engine, explainable evidence fusion, AI-assisted incident investigation, digital twin monitoring, and live network telemetry. Includes an autonomous SOC workflow with AI investigation agents and human-in-the-loop response approval.
-
-| Stack | Scale | Impact |
-|:---|:---|:---|
-| Python · FastAPI · Streamlit · AI Agents · Digital Twin · Network Security | Enterprise command center: Fleet Ops, Incident Mgmt, Digital Twin, Live Monitoring, Analytics | Autonomous threat investigation with human-in-the-loop response |
-
-</details>
-
-<details>
-<summary><b>🤖 Agentic AI Social Media Automation</b></summary>
-<br/>
-
-Developed an autonomous multi-agent system generating captions with Groq LLaMA 3.3 70B and images with a locally-run Stable Diffusion 1.5 pipeline, then auto-publishing across Facebook, Instagram, and LinkedIn via Playwright. Engineered a 3-strategy fallback upload flow with persistent session handling.
-
-| Stack | Scale | Impact |
-|:---|:---|:---|
-| Python · Groq LLM · Stable Diffusion · Playwright | Auto-publishing across 3 platforms | Reliable posting despite frequent platform UI changes |
-
-</details>
-
-<details>
-<summary><b>💰 Nivesh.ai — Multilingual AI Funding Advisor</b></summary>
-<br/>
-
-Built a Gemini-powered RAG platform delivering a 0–100 funding readiness score and a personalised 5-step action checklist for early-stage Indian founders, in their preferred language. Designed a ChromaDB vector-retrieval pipeline paired with a PostgreSQL backend to ground recommendations in real startup data.
-
-| Stack | Scale | Impact |
-|:---|:---|:---|
-| React · FastAPI · Gemini API · ChromaDB · PostgreSQL | Multilingual RAG over real startup funding data | Grounded, personalised funding guidance vs raw LLM output |
-
-</details>
 
 <br/>
 
 ### `$ history --experience`
 
-<div align="center">
-
-| Role | Organization | Year | Stack |
+| Role | Organization | Period | Focus |
 |:---|:---|:---:|:---|
-| Agentic AI Intern | AptitudeGuru | 2026 | Python, LLM Agents, Transformers, Prompt Engineering |
-| MERN Stack Development Intern | EduCentro | 2025 | MongoDB, Express.js, React, Node.js, REST APIs |
-
-</div>
+| Agentic AI Intern | AptitudeGuru | 2026 | LLM Agents, Transformers, Prompt Engineering |
+| MERN Stack Intern | EduCentro | 2025 | MongoDB, Express, React, Node.js, REST APIs |
 
 <br/>
 
 ### `$ cat achievements.md`
 
-<div align="center">
-
-| Achievement | Year |
-|:---:|:---:|
-| 🥇 1st Place — Creatathon (Web Development) | — |
-| 🥇 1st Prize — Project Expo (Design Thinking) | — |
-| 🥉 3rd Place — SCI-FIXX Bug Fixing Competition | — |
-| 🏅 Participated in 4+ national-level hackathons | — |
-
-</div>
+| | |
+|:---|:---|
+| 🥇 **1st Place** — Creatathon (Web Development) | 🥉 **3rd Place** — SCI-FIXX Bug Fixing Competition |
+| 🥇 **1st Prize** — Project Expo (Design Thinking) | 🏅 Participated in **4+ national-level hackathons** |
 
 <br/>
 
-### `$ education --badge`
+### `$ cat education.md`
 
-<div align="center">
+**B.E. Computer Science and Engineering (AI & ML)**
+Sri Eshwar College of Engineering · 2024–2028 · CGPA: 8.51
 
-![Sri Eshwar](https://img.shields.io/badge/B.E._CSE(AI_%26_ML)-Sri_Eshwar_College_of_Engineering-0D1117?style=for-the-badge&logo=googlescholar&logoColor=00F0FF&labelColor=0D1117)
-![CGPA](https://img.shields.io/badge/CGPA-8.51_(4th_Sem)-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF)
+<details>
+<summary><b>Certifications</b></summary>
+<br/>
 
-**Certifications**
+- Data Analytics Job Simulation — Deloitte (Forage), 2026
+- Design Thinking — NPTEL, 2026
+- Introduction to Machine Learning — NPTEL, 2025
+- Introduction to Python — Udemy, 2025
+- DSA Basics in C++ — Udemy, 2025
+- Oracle Badge in Java — Oracle, 2025
 
-![Deloitte](https://img.shields.io/badge/Data_Analytics_Job_Simulation-Deloitte_(Forage)_2026-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-![Design Thinking](https://img.shields.io/badge/Design_Thinking-NPTEL_2026-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-![ML](https://img.shields.io/badge/Intro_to_Machine_Learning-NPTEL_2025-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-![Python](https://img.shields.io/badge/Intro_to_Python-Udemy_2025-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-![DSA](https://img.shields.io/badge/DSA_Basics_in_C%2B%2B-Udemy_2025-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-![Java](https://img.shields.io/badge/Oracle_Badge_in_Java-Oracle_2025-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF)
-
-</div>
+</details>
 
 <br/>
 
@@ -210,10 +134,12 @@ Built a Gemini-powered RAG platform delivering a 0–100 funding readiness score
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-170%2B_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F0FF&labelColor=0D1117)](EDIT_ME_LEETCODE_PROFILE_URL)
-[![SkillRack](https://img.shields.io/badge/Skill_Rack-1200%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF)](EDIT_ME_SKILLRACK_PROFILE_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-170%2B_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF&labelColor=0D1117)](EDIT_ME_LEETCODE_PROFILE_URL)
+[![SkillRack](https://img.shields.io/badge/SkillRack-1200%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=00D4FF)](EDIT_ME_SKILLRACK_PROFILE_URL)
 
 </div>
+
+> ⚠️ *Replace `EDIT_ME_LEETCODE_PROFILE_URL` and `EDIT_ME_SKILLRACK_PROFILE_URL` with your actual profile URLs.*
 
 <br/>
 
@@ -221,55 +147,31 @@ Built a Gemini-powered RAG platform delivering a 0–100 funding readiness score
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akhil151&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil151&theme=dark&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil151&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" width="48%"/>
-
-</div>
-
-<br/>
-
-### `$ github --trophies`
-
-<div align="center">
-
-<a href="https://github.com/akhil151">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhil151&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%"/>
-</a>
-
-</div>
-
-<br/>
-
-### `$ github --activity-graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil151&bg_color=0D1117&color=00F0FF&line=00F0FF&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akhil151&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E&ring_color=00D4FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil151&theme=dark&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E" width="49%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/akhil151/akhil151/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akhil151&bg_color=0D1117&color=00D4FF&line=00D4FF&point=8B949E&area=true&hide_border=true" width="98%"/>
+
 </div>
 
 <br/>
 
-### `$ connect --with-me`
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-m-p)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0D1117)](mailto:Palanisamyakhil@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/akhil151)
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00D4FF&labelColor=0D1117)](https://www.linkedin.com/in/akhilesh-m-p)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00D4FF&labelColor=0D1117)](mailto:Palanisamyakhil@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=00D4FF&labelColor=0D1117)](https://github.com/akhil151)
 
 <br/>
 
-*"Ship the agent, then teach it to think."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F0FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a192f,100:00D4FF&height=100&section=footer" width="100%"/>
 
 </div>
