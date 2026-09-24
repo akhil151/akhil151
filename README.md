@@ -134,12 +134,12 @@ Sri Eshwar College of Engineering · 2024–2028 · CGPA: 8.51
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-170%2B_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF&labelColor=0D1117)](EDIT_ME_LEETCODE_PROFILE_URL)
-[![SkillRack](https://img.shields.io/badge/SkillRack-1200%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=00D4FF)](EDIT_ME_SKILLRACK_PROFILE_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-170%2B_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF&labelColor=0D1117)](https://leetcode.com/u/akhil_0025/)
+[![SkillRack](https://img.shields.io/badge/SkillRack-1200%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=00D4FF)](https://www.skillrack.com/faces/resume.xhtml?id=514603&key=96146a8f7016b60fefababc59b4cb4cb57c6eabc)
 
 </div>
 
-> ⚠️ *Replace `EDIT_ME_LEETCODE_PROFILE_URL` and `EDIT_ME_SKILLRACK_PROFILE_URL` with your actual profile URLs.*
+
 
 <br/>
 
