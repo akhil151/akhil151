@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a192f,100:00D4FF&height=180&section=header&text=AKHILESH%20M%20P&fontSize=48&fontColor=00D4FF&fontAlignY=35&desc=AI/ML%20Engineer%20·%20Systems%20Builder%20·%20Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=8B949E&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a192f,100:00D4FF&height=180&section=header&text=AKHILESH%20M%20P&fontSize=48&fontColor=00D4FF&fontAlignY=35&desc=AI/ML%20Engineer%20·%20Systems%20Builder%20·%20Full-Stack%20Developer&descAlignY=58&descSize=16&descColor=8B949E&animation=fadeIn" width="100%" alt="Akhilesh M P — AI/ML Engineer · Systems Builder · Full-Stack Developer" />
 
 <br/>
 
 <a href="https://github.com/akhil151">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=620&height=45&lines=Building+AI+agents,+vision+systems,+and+full-stack+applications." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=620&height=45&lines=Building+AI+agents,+vision+systems,+and+full-stack+applications." alt="Building AI agents, vision systems, and full-stack applications." />
 </a>
 
 <br/>
@@ -35,7 +35,7 @@ Currently focused on **agentic AI**, **real-time computer vision**, and **AI-int
 <table>
 <tr><td>
 
-#### 🐘 Elephant Detection — Real-Time Wildlife Alert System
+#### 🐘 [Elephant Detection — Real-Time Wildlife Alert System](https://github.com/deepakramaswamy2006/Elephant_Detection)
 
 Trained a YOLOv8 model on a custom Roboflow dataset to detect elephants from a Raspberry Pi camera feed. Broadcasts live WebSocket alerts to a mobile app to help reduce human-wildlife conflict. Runs on-device — no cloud round-trip for time-critical alerts.
 
@@ -44,7 +44,7 @@ Trained a YOLOv8 model on a custom Roboflow dataset to detect elephants from a R
 </td></tr>
 <tr><td>
 
-#### 🛡️ AEGIS-CPS — AI-Powered Cyber-Physical Security Platform
+#### 🛡️ [AEGIS-CPS — AI-Powered Cyber-Physical Security Platform](https://github.com/akhil151/agent1)
 
 Designed and built a security platform for connected robots and industrial systems. Features a six-layer detection engine, explainable evidence fusion, AI-assisted incident investigation, digital twin monitoring, and live network telemetry. Includes an autonomous SOC workflow with AI investigation agents and human-in-the-loop response approval.
 
@@ -53,7 +53,7 @@ Designed and built a security platform for connected robots and industrial syste
 </td></tr>
 <tr><td>
 
-#### 🤖 Agentic AI Social Media Automation
+#### 🤖 [Agentic AI Social Media Automation](https://github.com/akhil151/agenticai)
 
 Built an autonomous multi-agent system that generates captions (Groq LLaMA 3.3 70B), generates images (Stable Diffusion 1.5 running locally), and auto-publishes across Facebook, Instagram, and LinkedIn via Playwright. Engineered a 3-strategy fallback upload flow with persistent session handling.
 
@@ -62,7 +62,7 @@ Built an autonomous multi-agent system that generates captions (Groq LLaMA 3.3 7
 </td></tr>
 <tr><td>
 
-#### 💰 Nivesh.ai — Multilingual AI Funding Advisor
+#### 💰 [Nivesh.ai — Multilingual AI Funding Advisor](https://github.com/akhil151/ai-verse) · [Live Demo](https://ai-verse-zhe6.vercel.app/)
 
 A Gemini-powered RAG platform that delivers a 0–100 funding readiness score and a personalised 5-step action checklist for early-stage Indian founders, in their preferred language. ChromaDB vector-retrieval pipeline paired with PostgreSQL to ground recommendations in real startup data.
 
@@ -114,7 +114,7 @@ A Gemini-powered RAG platform that delivers a 0–100 funding readiness score an
 
 **B.E. Computer Science and Engineering (AI & ML)**
 Sri Eshwar College of Engineering · 2024–2028 · CGPA: 8.51
-
+<br/>
 <details>
 <summary><b>Certifications</b></summary>
 <br/>
@@ -134,12 +134,12 @@ Sri Eshwar College of Engineering · 2024–2028 · CGPA: 8.51
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-170%2B_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF&labelColor=0D1117)](EDIT_ME_LEETCODE_PROFILE_URL)
-[![SkillRack](https://img.shields.io/badge/SkillRack-1200%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=00D4FF)](EDIT_ME_SKILLRACK_PROFILE_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-170%2B_Solved-0D1117?style=for-the-badge&logo=leetcode&logoColor=00D4FF&labelColor=0D1117)](https://leetcode.com/u/akhil_0025/)
+![SkillRack](https://img.shields.io/badge/SkillRack-1200%2B_Solved-0D1117?style=for-the-badge&labelColor=0D1117&color=00D4FF)
 
 </div>
 
-> ⚠️ *Replace `EDIT_ME_LEETCODE_PROFILE_URL` and `EDIT_ME_SKILLRACK_PROFILE_URL` with your actual profile URLs.*
+> ⚠️ *The SkillRack profile URL is hash-based and couldn't be publicly verified, so the badge is intentionally unlinked — ask me for it. Solve counts are self-reported and may need updating.*
 
 <br/>
 
@@ -172,6 +172,6 @@ Sri Eshwar College of Engineering · 2024–2028 · CGPA: 8.51
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a192f,100:00D4FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a192f,100:00D4FF&height=100&section=footer" width="100%" alt="" />
 
 </div>
